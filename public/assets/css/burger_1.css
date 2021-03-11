@@ -1,9 +1,48 @@
 h1 {
-color: black;
+color: gray;
+text-align: center;
+font-size: 50px;
+
 }
 h2 {
-color: red;
+color: gold;
+text-align: center;
+font-size: 40px;
 }
 body {
-    background-color: coral;
+    background-color: gold;
+    background-image: url(https://cdn3.vectorstock.com/i/1000x1000/50/62/angry-cheese-burger-located-on-plate-cartoon-vector-23325062.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+
+
+}
+.right {
+    float: right;
+    color: grey;
+    font-family: cursive;
+    
+}
+.left {
+float: left;
+color: gray;
+font-family: cursive;
+}
+#burg {
+   color: black; 
+   text-align: center;
+   font-size: 30px;
+
+}
+#button {
+    color: gold;
+     text-emphasis: bold;
+}
+#cheese {
+    text-align: center;
+    color: black;
+}
+#dbtn {
+    border-radius: 50%;
 }
