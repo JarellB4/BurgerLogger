@@ -1,17 +1,25 @@
 {
-  "name": "homework",
+  "name": "BurgerLogger",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarellB4/BurgerLogger.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JarellB4/BurgerLogger/issues"
+  },
+  "homepage": "https://github.com/JarellB4/BurgerLogger#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-handlebars": "^5.2.1",
+    "handlebars": "^4.7.7",
     "mysql": "^2.18.1"
   }
 }
